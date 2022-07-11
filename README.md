@@ -21,4 +21,4 @@ For authorised users besides CRUD operations you can find banners at "localhost:
 
 You should registration or login like testing user or admin.
 
-P.S front now dont correct working wtih this structure/
+P.S front now working incorrect wtih this structure/
