@@ -1,5 +1,6 @@
 Start Instruction:
 Download/clone this repository to your machine
+
 Download and run MYSQL server or other(you should confogure application.properties for your database), then create a database
 Go to "src/main/resources" folder, open "application.properties" file and change name of database and port in first line
 Change user and password in next two lines of "application.properties" file
