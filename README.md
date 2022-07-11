@@ -20,3 +20,5 @@ Also you can use Postman or something like this to get a banner text at "localho
 For authorised users besides CRUD operations you can find banners at "localhost:8080/category?name={wordtofind}"
 
 You should registration or login like testing user or admin.
+
+P.S front now dont correct working wtih this structure/
